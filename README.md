@@ -47,5 +47,6 @@ My specialty is translating complex business goals into high-quality tech soluti
     * Enterprise systems like MS Dynamics 365 or Genetec Security Center.
 
 * 📫 **How to reach me:**
+    * **[GitHub](https://github.com/iamvashisht1-web)**
     * **[LinkedIn](https://www.linkedin.com/in/varunvashisht1)**
     * **[Email](mailto:varun.vashisht013@gmail.com)**
