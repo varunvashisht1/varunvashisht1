@@ -35,6 +35,9 @@ My specialty is translating complex business goals into high-quality tech soluti
 * 🌱 **I’m currently learning:**
     * Advanced concepts in AI via HarvardX's "Computer Science for Artificial Intelligence".
 
+* 🎮 **When I'm not working:**
+    * I love playing around with new tech, customizing my PC, and diving into video games.
+
 * ⚡ **Fun fact:**
     * I designed and built an **AI/ML resource allocation tool** that reduced project-matching time by 80%!
 
