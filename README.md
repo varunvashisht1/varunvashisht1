@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img width="1500" height="450" alt="Navy Modern Personal LinkedIn Banner (2)" src="https://github.com/user-attachments/assets/f7996985-0d10-4704-96ee-e15e4bf05749" />
-
+<img width="6250" height="1875" alt="Navy Modern Personal LinkedIn Banner" src="https://github.com/user-attachments/assets/cb479a5d-bf38-457c-9384-2637ad901aad" />
 
 ## Hi there! I'm Varun 👋
 
