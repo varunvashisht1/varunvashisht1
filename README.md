@@ -19,32 +19,40 @@ Here are some ideas to get you started:
 
 ## Hi there! I'm Varun 👋
 
+I'm a **Program Leader with 13+ years of experience delivering complex digital transformation initiatives** across the IT, Energy, and Healthcare sectors.
 
-
-I'm a **professional project cat-herder** with 13+ years of experience leading digital transformations across the IT, Energy, and Healthcare sectors.
-
-My specialty is translating complex business goals into high-quality tech solutions, managing cross-functional teams, and wrangling data to drive better decisions.
+I specialize in translating business strategy into scalable technology solutions — leading cross-functional teams, aligning stakeholders, and delivering enterprise platforms that drive measurable outcomes.
 
 ---
 
-* 🔭 **I’m currently working on:**
-    * Leading large-scale digital transformation and physical security projects for an \$8M program.
-    * Building data-driven solutions using Python, SQL, and Power BI.
+### 🔭 Currently working on
+- Leading delivery of **digital platforms including web, LMS, and mobile applications** integrated with CRM and enterprise systems.
+- Driving cross-functional execution across **technology, marketing, sales, and operations** to support business growth and platform scalability.
+- Building **data-driven decision systems** using Python, SQL, and Power BI.
 
-* 🌱 **I’m currently learning:**
-    * Advanced concepts in AI via HarvardX's "Computer Science for Artificial Intelligence".
+### 🌱 Currently learning
+- Advanced AI concepts through **HarvardX – Computer Science for Artificial Intelligence**.
 
-* 🎮 **When I'm not working:**
-    * I love playing around with new tech, customizing my PC, and diving into video games.
+### 🧠 Areas of focus
+- Program Leadership & Digital Transformation  
+- Enterprise Platform Delivery  
+- Data & Automation for Decision Support  
+- Stakeholder Alignment & Cross-functional Execution  
 
-* ⚡ **Fun fact:**
-    * I designed and built an **AI/ML resource allocation tool** that reduced project-matching time by 80%!
+### ⚙️ Technologies & tools
+Python • SQL • ETL (SSIS) • Power BI  
+MS Dynamics 365 • Genetec Security Center  
+Agile Delivery • Program Governance • Six Sigma
 
-* 💬 **Ask me about:**
-    * Project Management (PMP), Business Analysis (CBAP), or Six Sigma.
-    * Python, SQL, ETL (SSIS), and Power BI.
-    * Enterprise systems like MS Dynamics 365 or Genetec Security Center.
+### ⚡ Highlight
+Designed and built an **AI/ML-based resource allocation tool** that reduced project-matching time by **80%**.
 
+### 💬 Ask me about
+- Program Management (PMP) & Business Analysis (CBAP)  
+- Digital Transformation & Enterprise Platforms  
+- Data-driven program delivery
+
+  
 * 📫 **How to reach me:**
     * **[GitHub](https://github.com/varunvashisht1)**
     * **[LinkedIn](https://www.linkedin.com/in/varunvashisht1)**
