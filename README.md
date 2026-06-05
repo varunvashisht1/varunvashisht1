@@ -43,8 +43,7 @@ flowchart LR
 Built an AI/ML resource-allocation proof of concept in Python that cut project-to-resource matching time by **80%**.
 
 ### ✍️ Latest from the journal
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [The Mindset Tech PMs Need Right Now &lpar;Hint: It&#39;s Not What You Think&rpar;](https://varunvashisht.com/blog/the-mindset-tech-pms-need-right-now-hint-it-s-not-what-you-think/)<br/>- [The four AI tools that actually stuck. A six-month receipt.](https://varunvashisht.com/blog/four-tools-that-actually-stuck/)<br/>- [Who&#39;s quietly cancelling their AI subscriptions?](https://varunvashisht.com/blog/whos-quietly-cancelling-their-ai-subscriptions/)<br/>- [The status update that said nothing. A small autopsy.](https://varunvashisht.com/blog/the-status-update-that-said-nothing/)<br/><!-- BLOG-POST-LIST:END -->
 
 [Read more on the journal →](https://varunvashisht.com/blog/)
 
