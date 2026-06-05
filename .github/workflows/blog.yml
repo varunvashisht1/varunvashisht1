@@ -18,6 +18,9 @@ jobs:
     runs-on: ubuntu-latest
     name: Refresh latest posts
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
       - name: Pull latest posts into the README
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
