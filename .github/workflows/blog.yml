@@ -1,0 +1,28 @@
+name: Latest blog posts
+
+# Pulls the newest posts from the Insights RSS feed and rewrites the
+# block between the BLOG-POST-LIST markers in README.md. Runs every six
+# hours and on demand, so the profile always shows current writing
+# without anyone touching it.
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    name: Refresh latest posts
+    steps:
+      - name: Pull latest posts into the README
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://varunvashisht.com/blog/rss.xml"
+          max_post_count: 4
+          template: "- [$title]($url)<br/>"
+          commit_message: "chore: refresh latest blog posts"
+          comment_tag_name: "BLOG-POST-LIST"
